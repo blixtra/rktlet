@@ -1,6 +1,6 @@
 # Supported Kubernetes features
 
-This is an uncomplete list of Kubernetes features supported by rktlet.
+This is an incomplete list of Kubernetes features supported by rktlet.
 
 | Feature                | Supported | Comments |
 | ---------------------- |:---------:| -------- |
